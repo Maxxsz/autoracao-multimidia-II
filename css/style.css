@@ -21,3 +21,20 @@ body {
     box-sizing: border-box;
     width: 300px;
 }
+
+table, th, td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 18px;
+    text-align: left;
+}
+
+
+
