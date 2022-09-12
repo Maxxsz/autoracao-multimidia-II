@@ -1,0 +1,23 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.h1 {
+    color: red;
+    font-weight: bold;
+}
+
+.h2 {
+    color: green;
+    font-weight: bold;
+}
+
+.element {
+    background-color: yellow;
+    border: 1px solid blue;
+    box-sizing: border-box;
+    width: 300px;
+}
